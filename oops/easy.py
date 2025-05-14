@@ -1,4 +1,4 @@
-#MEDium oops
+Easy oops
 #1 .question
 class Rectangle:
     def __init__(self,width,height):
